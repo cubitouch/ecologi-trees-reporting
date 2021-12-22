@@ -6,6 +6,9 @@ TODO:
 * improve local dev by running everything from one shell at root level
 * improve test coverage
 
+## Pre-requisites
+
+Install `nodemon` to support watch mode: `npm i -g nodemon`
 
 ## Backend
 
