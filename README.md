@@ -12,11 +12,11 @@ Install `nodemon` to support watch mode: `npm i -g nodemon`
 
 ## Backend
 
-# Start
+### Start
 Go to `./packages/back`
 Run `npm start`
 
-# Tests
+### Tests
 Go to `./packages/back`
 Run `npm test`
 Check coverage results at `packages/back/coverage/lcov-report/index.html`
@@ -24,11 +24,11 @@ Check coverage results at `packages/back/coverage/lcov-report/index.html`
 
 ## Frontend
 
-# Start
+### Start
 Go to `./packages/front`
 Run `npm start`
 
-# Tests
+### Tests
 Go to `./packages/front`
 Run `npm test`
 Check coverage results at `packages/front/coverage/lcov-report/index.html`
